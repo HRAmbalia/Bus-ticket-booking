@@ -6,7 +6,9 @@ This is a simple web application for booking bus tickets online. It allows users
 
 To run the CAPTCHA detection program, run the following command:
 
-`python3 manage.py runserver`
+```python
+python3 manage.py runserver
+```
 
 ## Contributing
 
